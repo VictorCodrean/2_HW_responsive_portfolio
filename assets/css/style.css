@@ -30,6 +30,12 @@ body {
     background-color: #e45f56;
     color: beige;
 }
+
+.footer {
+    background-color: #404040;
+    color: beige;
+    border-top: 7px solid #e45f56;
+}
 @media screen and (max-width: 375px) {
     h1.about-header {
         font-size: 20px;
