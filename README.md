@@ -6,22 +6,23 @@
 - [About page](#About)
 - [Contact page](#Contact)
 - [Portfolio page](#Portfolio)
-- [Style CSS](#Style.css)
+- [Style CSS](#Style)
 - [Credits](#Credits)
-- [Screeenshots](#Pictures)
 - [Contributing](#Contributing)
 - [Directory](#Directory)
+- [Screeenshots](#Pictures)
+
 ## Description
 Responsive design to ensure web applications to render well on a variety devices or screen sizes. Using the Bootstrap CSS Framework helped us to minimize the use of media queries, utilizing the **GRID system** (container, rows and columns).
 
-## About Me page
+## About
 * Consistent Navbar from Boostrap for each page.
     *  On each page contain links to Home/About, Contact, and Portfolio page.
 * Main element in a container:
     * 1 row and a column that occupies 8 spaces out of 12. (rule of 12 Bootstrap Gryd System)
 * Consistent Footer from Bootstrap for each page.
 
-## Contact page
+## Contact
 * Consistent Navbar from Boostrap for each page.
     *  On each page contain links to Home/About, Contact, and Portfolio page.
 * Main element in a container:
@@ -29,7 +30,7 @@ Responsive design to ensure web applications to render well on a variety devices
     * 2-nd column nested inside 1-st column (because 2-nd column leaves 2gryd lines free    of space)
 * Consistent Footer from Bootstrap for each page.
 
-## Portfolio page
+## Portfolio
 * Consistent Navbar from Boostrap for each page.
     *  On each page contain links to Home/About, Contact, and Portfolio page.
 * Main element in a container:
@@ -64,7 +65,7 @@ Responsive design to ensure web applications to render well on a variety devices
         ```
 * Consistent Footer from Bootstrap for each page.
 
-## Style.css
+## Style
 Background img, style properties, footer style and  **media query** for header responsivness.
 
 ## Credits
@@ -74,9 +75,6 @@ Background img, style properties, footer style and  **media query** for header r
 - [StackOverFlow](https://stackoverflow.com/) - Troubleshouting issues
 - [YouTube](https://www.youtube.com/) - different tips and shortcuts...
 
-## Pictures with the responsive website:
-* In progress...
-
 ## Contributing
 * Name: Victor Codrean
 * [Email](CodreanVictor@gmail.com)
@@ -85,3 +83,6 @@ Background img, style properties, footer style and  **media query** for header r
 ## Directory
 * Website: (in progress - not public yet...)
 * [GitHub Source](https://github.com/VictorCodrean/2_HW_responsive_portfolio)
+
+## Pictures with the responsive website:
+* In progress...
