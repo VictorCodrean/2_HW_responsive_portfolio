@@ -65,7 +65,7 @@ Responsive design to ensure web applications to render well on a variety devices
         ```
 * Consistent Footer from Bootstrap for each page.
 
-## Style
+## Style CSS
 Background img, style properties, footer style and  **media query** for header responsivness.
 
 ## Credits
@@ -85,4 +85,18 @@ Background img, style properties, footer style and  **media query** for header r
 * [GitHub Source](https://github.com/VictorCodrean/2_HW_responsive_portfolio)
 
 ## Pictures with the responsive website:
-* In progress...
+> * ### About me 400 - 768 - 992  
+![about-me-gif](assets/pictures/about-me-gif.gif)
+![aboutme-400](assets/pictures/aboutme-400.png)
+![aboutme-768](assets/pictures/aboutme-768.png)
+![aboutme-992](assets/pictures/aboutme-992.png)  
+>* ### Contact 400 - 768 - 992  
+![about-me-gif](assets/pictures/contact-gif.gif)
+![contact-400](assets/pictures/contact-400.png)
+![contact-768](assets/pictures/contact-768.png)
+![contact-992](assets/pictures/contact-992.png)  
+>* ### Portfolio 400 - 768 - 992  
+![about-me-gif](assets/pictures/portfolio-gif.gif)
+![portfolio-400](assets/pictures/portfolio-400.png)
+![portfolio-768](assets/pictures/portfolio-768.png)
+![portfolio-992](assets/pictures/portfolio-992.png)

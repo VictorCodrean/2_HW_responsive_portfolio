@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
 }
-
+/* Style info for header/navbar */
 #about-header {
     font-size: 2rem;
     font-weight: bold;
@@ -21,7 +21,7 @@ body {
 .about-header {
     color: #e45f56;
 }
-
+/* Style info for main content */
 .about-background {
     background-color: whitesmoke;
 }
@@ -30,7 +30,7 @@ body {
     background-color: #e45f56;
     color: beige;
 }
-
+/* Style info for footer */
 .footer {
     background-color: #404040;
     color: beige;
@@ -39,7 +39,9 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
+    text-align: center;
 }
+/* Style info for 'header - h1' to get smaller in px size when on smaller screen. */
 @media screen and (max-width: 375px) {
     h1.about-header {
         font-size: 20px;
