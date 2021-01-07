@@ -35,6 +35,10 @@ body {
     background-color: #404040;
     color: beige;
     border-top: 7px solid #e45f56;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 @media screen and (max-width: 375px) {
     h1.about-header {
