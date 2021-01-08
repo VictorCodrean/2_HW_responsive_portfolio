@@ -6,7 +6,7 @@
 - [About page](#About)
 - [Contact page](#Contact)
 - [Portfolio page](#Portfolio)
-- [Style CSS](#Style)
+- [Style CSS](#StyleCSS)
 - [Credits](#Credits)
 - [Contributing](#Contributing)
 - [Directory](#Directory)
@@ -65,7 +65,7 @@ Responsive design to ensure web applications to render well on a variety devices
         ```
 * Consistent Footer from Bootstrap for each page.
 
-## Style CSS
+## StyleCSS
 Background img, style properties, footer style and  **media query** for header responsivness.
 
 ## Credits
