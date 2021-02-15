@@ -24,6 +24,14 @@ body {
 .about-header {
     color: #e45f56;
 }
+
+.project-title {
+   color: salmon;
+}
+
+a:hover{
+    text-decoration: none;
+}
 /* Style info for main content */
 .about-background {
     background-color: whitesmoke;
@@ -33,6 +41,8 @@ body {
     background-color: #e45f56;
     color: beige;
 }
+
+
 /* Style info for footer */
 footer {
     background-color: #404040;
@@ -45,7 +55,7 @@ footer {
 }
 
 footer ul li a {
-    color: #e45f56;
+    color: beige;
     
 }
 
