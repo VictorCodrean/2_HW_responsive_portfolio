@@ -1,4 +1,4 @@
-# 2_HW_responsive_portfolio - [Deployed product](https://victorcodrean.github.io/Portfolio/)
+# 2_HW_responsive_portfolio - [Deployed product](https://victorcodrean.github.io/2_HW_responsive_portfolio/)
 
 # Table of Contents
 
@@ -82,7 +82,7 @@ Background img, style properties, footer style and  **media query** for header r
 
 ## Directory
 * [Deployed Website](https://victorcodrean.github.io/Portfolio/)
-* [GitHub Source](https://github.com/VictorCodrean/Portfolio)
+* [GitHub Source](https://github.com/VictorCodrean/2_HW_responsive_portfolio)
 
 ## Pictures with the responsive website:
 > * ### About me page: 400 - 768 - 992  
